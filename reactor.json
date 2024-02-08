@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "yvesholenstein",
+    "repo": "eigenlayer",
+    "branch": "master"
+  },
+  "name": "eigenLayer",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1033
+}
